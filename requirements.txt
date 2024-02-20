@@ -1,0 +1,19 @@
+# data tools
+numpy
+pandas
+
+# visualisation
+matplotlib
+seaborn
+
+# machine learning tools
+scikit-learn
+xgboost
+lightgbm
+catboost
+tensorflow
+keras
+
+# notebook dependencies
+jupyter
+ipykernel
