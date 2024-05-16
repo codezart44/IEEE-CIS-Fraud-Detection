@@ -8,6 +8,7 @@ seaborn
 
 # machine learning tools
 scikit-learn
+imbalanced-learn
 xgboost
 lightgbm
 catboost

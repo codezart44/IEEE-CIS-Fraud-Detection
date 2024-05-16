@@ -1,0 +1,21 @@
+data: 
+  path: /Users/oskarwallberg/Desktop/kaggle-datasets/ieee-fraud-detection/
+  
+  train:
+    identity: 
+      raw: train_identity.csv
+      pp: 
+    transaction: 
+      raw: train_transaction.csv
+      pp: train_transaction_pp_fs1.csv
+
+  test:
+    identity: 
+      raw: test_identity.csv
+      pp: 
+    transaction: 
+      raw: test_transaction.csv
+      pp:
+  
+  target_feature: isFraud
+  index_column: TransactionID
