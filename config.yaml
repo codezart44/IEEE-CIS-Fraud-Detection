@@ -19,3 +19,6 @@ data:
   
   target_feature: isFraud
   index_column: TransactionID
+  
+model:
+  random_state: 42
